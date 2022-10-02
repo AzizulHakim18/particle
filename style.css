@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    /* color: #ff0266;    red
+    color: #03dac6; blue*/
+}
+
+#particles-js {
+    background-color: #1e1f26;
+    margin: 0;
+    padding: 0;
+}
